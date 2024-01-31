@@ -11,8 +11,6 @@ function DisplayImage(roomNumber) {
     img.id = "roomImage"
     img.style = "display: block; margin-left: auto; margin-right: auto; width: 50%;"
 
-    console.log(roomNumber + ".jpg")
-
     document.body.appendChild(img)
 }
 
