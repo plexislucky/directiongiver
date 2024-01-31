@@ -1,4 +1,3 @@
-// neciešami debīls kods, vajag labāku kodu lkm
 function DisplayImage(roomNumber) {
 
     const prevImg = document.getElementById("roomImage")
